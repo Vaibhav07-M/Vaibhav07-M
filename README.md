@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav07-m&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav07-m" /> </p>
 
 - 🌱 **Currently Learning:** C++ and exploring advanced concepts
-- 👯 **Looking to Collaborate on:** Open-source C++ projects
+- 👥 **Looking to Collaborate on:** Open-source C++ projects
 - 🤝 **Seeking Help with:** Advanced C++ concepts and best practices
 - 💬 **Ask me about:** Beginner programming tips and resources
 - ⚡ **Fun Fact:** I love solving puzzles and playing strategy games
