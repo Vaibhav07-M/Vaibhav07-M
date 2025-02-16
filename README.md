@@ -15,7 +15,7 @@
   <!-- Add more languages and tools here -->
 </p>
 
-<h2 align="left">📊 Vaibhav's GitHub Stats 📊</h2>
+<h2 align="left">📊 GitHub Stats 📊</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav07-m&show_icons=true&locale=en&theme=github_dark&title_color=2f80ed&icon_color=bb2acf&text_color=ffffff&bg_color=0d1117" alt="vaibhav07-m" /></p>
 
 <h2 align="left">💻 Most Used Languages 💻</h2>
