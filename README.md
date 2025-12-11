@@ -30,27 +30,27 @@
 
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav07-M&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-ten-omega-16.vercel.app/api?username=Vaibhav07-M&show_icons=true&theme=tokyonight)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav07-M&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-stats-ten-omega-16.vercel.app/api/streak?username=Vaibhav07-M)
 
 
 
 ## 🔝  Top Contributed Repositories
 
 <p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Vaibhav07-M&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-stats-ten-omega-16.vercel.app/api?username=Vaibhav07-M&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 
 ## 💻 Most Used Languages  
-![Top Langs](https://raw.githubusercontent.com/Vaibhav07-M/github-stats-transparent/output/generated/languages.svg)
+![Top Langs](https://github-readme-stats-ten-omega-16.vercel.app/api/top-langs?username=Vaibhav07-M)
 
 
 
 ## 🏆 Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vaibhav07-M&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://github-readme-stats-ten-omega-16.vercel.app/api/trophies?username=Vaibhav07-M)
 
 
 ## 🤝 Connect with Me
