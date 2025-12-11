@@ -45,12 +45,12 @@
 
 
 ## 💻 Most Used Languages  
-![Top Langs](https://github-readme-stats-ten-omega-16.vercel.app/api/top-langs?username=Vaibhav07-M)
+![Top Langs](https://github-readme-stats-ten-omega-16.vercel.app/api/top-langs?username=Vaibhav07-M&no-frame=true&no-bg=true&theme=tokyonight)
 
 
 
 ## 🏆 Achievements  
-![Trophies](https://github-readme-stats-ten-omega-16.vercel.app/api/trophies?username=Vaibhav07-M)
+![Trophies](https://github-profile-trophy-three-theta.vercel.app/?username=Vaibhav07-M&theme=tokyonight)
 
 
 ## 🤝 Connect with Me
