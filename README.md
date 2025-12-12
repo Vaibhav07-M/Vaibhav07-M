@@ -33,7 +33,7 @@
 ![GitHub Stats](https://github-readme-stats-ten-omega-16.vercel.app/api?username=Vaibhav07-M&show_icons=true&theme=tokyonight)
 
 
-![Streak](https://github-readme-stats-ten-omega-16.vercel.app/api/streak?username=Vaibhav07-M)
+[![GitHub Streak](https://github-readme-streak-stats-lyart-chi.vercel.app/?user=Vaibhav07-M&theme=dark)](https://github.com/Vaibhav07-M)
 
 
 
