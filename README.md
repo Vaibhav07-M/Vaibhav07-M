@@ -36,15 +36,9 @@
 [![GitHub Streak](https://github-readme-streak-stats-ebon-sigma.vercel.app/?user=Vaibhav07-M&theme=tokyonight)](https://github.com/Vaibhav07-M)
 
 
-## 🔝  Top Contributed Repositories
-
-<p>
-  <img src="https://github-readme-stats-ten-omega-16.vercel.app/api?username=Vaibhav07-M&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
 
 ## 💻 Most Used Languages  
-![Top Langs](https://github-readme-stats-ten-omega-16.vercel.app/api/top-langs?username=Vaibhav07-M&no-frame=true&no-bg=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-ten-omega-16.vercel.app/api/top-langs?username=Vaibhav07-M&layout=compact&theme=tokyonight)
 
 
 
